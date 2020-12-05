@@ -1,0 +1,22 @@
+.line {
+  border: 1px solid lightgray;
+  margin: 5px;
+}
+
+/* markdown */
+
+.markdown-body h2 {
+  padding: 1rem 2rem;
+  border: 6px double dimgray;
+  background: #f4f4f4;
+}
+
+.markdown-body h3 {
+  border-left: 3px solid dimgray;
+  padding-left: 10px;
+  background: #f4f4f4;
+}
+
+.markdown-body a {
+  text-decoration: underline;
+}

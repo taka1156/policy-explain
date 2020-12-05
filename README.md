@@ -1,4 +1,4 @@
-# vue-privacy-explain
+# policy-explain
 
 ## Project setup
 ```
